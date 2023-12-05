@@ -1,0 +1,23 @@
+add Prisma:
+yarn add prisma --save-dev
+
+add Prisma Client:
+yarn add @prisma/client
+
+Iniate Prisma in project:
+npx prisma init
+
+Generate Prisma:
+npx prisma generate
+
+Prisma Push to DB:
+npx prisma db push
+
+Add bcrypt:
+yarn add bcrypt
+
+Add next-auth:
+yarn add next-auth
+
+Add Prisma Adaptor:
+yarn add @next-auth/prisma-adaptor
